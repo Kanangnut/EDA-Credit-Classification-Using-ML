@@ -1,4 +1,4 @@
-# EDA Credit Classification Using ML, Data Science Projects Portfolio
+# EDA Credit Classification Using ML, Data Science Project
 # Index<br>
 1. Import necessary libraries
 2. Get the data
