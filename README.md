@@ -50,7 +50,7 @@ You are comparing the following metrics:
      5. Voting
      6. Random Forest
 
-#### **Conclusion**
+### Conclusion:
 The project aims to visualize and compare the performance of various machine learning models, focusing on precision, recall, and F1 score. By plotting these metrics, you can determine which model performs best overall and assess their strengths and weaknesses.
 
 ### Key Steps of the Project:
